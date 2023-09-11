@@ -11,7 +11,7 @@ Take however long you want to work on the challenge. If you can’t complete the
 
 # Submission
 
-Please **submit a zip file** containing your code on the google form with your application by **11:59 p.m. Wednesday, September 14th**:
+Please **submit a zip file** containing your code on the google form with your application by **11:59 p.m. Thursday, September 14th**:
 
 Please include your full name in the title of your zip file.
 
